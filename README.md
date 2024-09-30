@@ -36,4 +36,14 @@ Java JDK : Version 8 ou plus récente.
 MySQL : Serveur de base de données.
 NetBeans ou tout autre IDE Java.
 Pilote JDBC pour MySQL : Inclure le driver JDBC dans le projet.
+https://github.com/user-attachments/assets/5a43ee0c-7269-457e-9077-97dae1a7acd3
+
+
+https://github.com/user-attachments/assets/a32e5bb7-81ae-495d-9d83-4f051a2220b8
+
+
+https://github.com/user-attachments/assets/6f192ad8-7233-4d8b-804f-2c5d346a530f
+
+
+https://github.com/user-attachments/assets/871a90c8-ff3d-4fc3-96a5-d8c89ce8dafa
  
